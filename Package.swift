@@ -7,7 +7,7 @@ import Foundation
 let package = Package(
     name: "Scipio",
     platforms: [
-        .macOS(.v13_4),
+        .macOS(.v14),
     ],
     products: [
         .executable(name: "scipio",
